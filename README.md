@@ -13,7 +13,7 @@
 
   QuickCart is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/snatcher/QuickCart.git"><strong>➥ Live Demo</strong></a>
+  <a href="https://snatcher.github.io/QuickCart/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
